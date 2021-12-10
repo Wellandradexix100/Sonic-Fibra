@@ -110,8 +110,8 @@ li {
 		linear,
 		left top,
 		left bottom,
-		from(#055160),
-		to(#00dabf)
+		from(#dc3545),
+		to(#ffc107)
 	);
 	background-clip: text;
 	-webkit-background-clip: text;
