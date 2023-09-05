@@ -267,7 +267,7 @@ li {
 /*     Home     */
 /****************/
 .home {
-	background-image: url(../assets/images/home1.jpg);
+	background-image: url(../assets/images/home.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
